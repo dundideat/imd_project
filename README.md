@@ -1,2 +1,2 @@
 # imd_project
-mobile application
+Development of a mobile application - actual app TBD
